@@ -1,6 +1,5 @@
 Rock Paper Scissors Game
 This is a simple Rock Paper Scissors game created using HTML, CSS, and JavaScript. The game allows a user to play Rock Paper Scissors against the computer.
-![Game Screenshot](rock.png)
 
 Features
 - Interactive and user-friendly interface.
@@ -19,3 +18,6 @@ Files Included
 - index.html: The main HTML file that contains the structure of the game.
 - styles.css: The CSS file that styles the game.
 - script.js: The JavaScript file that contains the game logic.
+
+ScreenShot
+![Game Screenshot](ss.png)
